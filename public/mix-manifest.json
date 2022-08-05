@@ -1,0 +1,7 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/employee/validations.js": "/js/employee/validations.js",
+    "/js/admin/validations.js": "/js/admin/validations.js",
+    "/js/admin/datatables.js": "/js/admin/datatables.js",
+    "/css/app.css": "/css/app.css"
+}
